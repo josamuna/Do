@@ -1,0 +1,103 @@
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+D:\PROJETS\CPG\ProjetIG\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+C:\Documents and Settings\USER\Bureau\Application\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+D:\Bu\FLASH\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ManageSMS.dll
+E:\Alpha\DOC\M16\F16\Application\ProjetIG\ProjetIGWIN\bin\Release\ManageSMS.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.exe
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ResolveAssemblyReference.cache
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CandidatVote.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.CentreBureau.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ConnexionBd.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Form1.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Principal.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Properties.Resources.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ProvinceVilleTerritoire.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.csproj.GenerateResource.Cache
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.exe
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGWIN.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\GSMCommunication.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ManageSMS.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\RS232.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\GSMCommShared.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\PDUConverter.dll
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGLIB.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ManageSMS.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.MesageNotInserted.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.Modem.resources
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGRPT.exe
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\bin\Release\ProjetIGRPT.pdb
+D:\PROJETS\CPG\ProjetIG\Application\ProjetIG\ProjetIGWIN\obj\Release\ProjetIGWIN.ReportForm.resources

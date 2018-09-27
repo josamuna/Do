@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63E6133F-716B-4318-B0BE-942B5DF60B4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestionClinic_WIN</RootNamespace>
+    <AssemblyName>Gestion_stock_interface</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArticleForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ArticleForm.designer.cs">
+      <DependentUpon>ArticleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnexionBd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConnexionBd.designer.cs">
+      <DependentUpon>ConnexionBd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FactureFrm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FactureFrm.Designer.cs">
+      <DependentUpon>FactureFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FournisseurForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FournisseurForm.designer.cs">
+      <DependentUpon>FournisseurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apropos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Apropos.Designer.cs">
+      <DependentUpon>Apropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServiceForm.designer.cs">
+      <DependentUpon>ServiceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LivraisonForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LivraisonForm.designer.cs">
+      <DependentUpon>LivraisonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AgentForm.Designer.cs">
+      <DependentUpon>AgentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManipulationUtilisateur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManipulationUtilisateur.designer.cs">
+      <DependentUpon>ManipulationUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ArticleForm.resx">
+      <DependentUpon>ArticleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnexionBd.resx">
+      <DependentUpon>ConnexionBd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FactureFrm.resx">
+      <DependentUpon>FactureFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FournisseurForm.resx">
+      <DependentUpon>FournisseurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apropos.resx">
+      <DependentUpon>Apropos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceForm.resx">
+      <DependentUpon>ServiceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LivraisonForm.resx">
+      <DependentUpon>LivraisonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgentForm.resx">
+      <DependentUpon>AgentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManipulationUtilisateur.resx">
+      <DependentUpon>ManipulationUtilisateur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptEtatStockF.resx">
+      <DependentUpon>rptEtatStockF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptListeArticle.resx">
+      <DependentUpon>rptListeArticle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptListeClient.resx">
+      <DependentUpon>rptListeClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VenteForm.resx">
+      <DependentUpon>VenteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptEtatStockF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rptEtatStockF.Designer.cs">
+      <DependentUpon>rptEtatStockF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptListeArticle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rptListeArticle.Designer.cs">
+      <DependentUpon>rptListeArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptListeClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="rptListeClient.Designer.cs">
+      <DependentUpon>rptListeClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VenteForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VenteForm.designer.cs">
+      <DependentUpon>VenteForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\Agent.png" />
+    <Content Include="image\Background.jpg" />
+    <Content Include="image\ConnecteToolTip.png" />
+    <Content Include="image\ConnectToolTip.png" />
+    <Content Include="image\ConnexionBd.png" />
+    <Content Include="image\DataBase.png" />
+    <Content Include="image\defaultPicture.png" />
+    <Content Include="image\delete.ico" />
+    <Content Include="image\LoadBd.png" />
+    <Content Include="image\Login.png" />
+    <Content Include="image\money%402x.png" />
+    <Content Include="image\my documents_128x128.ico" />
+    <Content Include="image\next.png" />
+    <Content Include="image\OkBd.png" />
+    <Content Include="image\Paiement.png" />
+    <Content Include="image\pc.jpg" />
+    <Content Include="image\pc2.ico" />
+    <Content Include="image\previous.png" />
+    <Content Include="image\refresh.png" />
+    <Content Include="image\save.png" />
+    <None Include="Resources\googledocs-icon1.png" />
+    <None Include="Resources\Googledocs-off%402x.png" />
+    <None Include="Resources\w_aim%402xOK.png" />
+    <None Include="Resources\Googledocs-off%402xOK.png" />
+    <None Include="Resources\VCardEmptyContact%402xOK.png" />
+    <None Include="Resources\mp_delete_md_n_lt%402x1.png" />
+    <None Include="Resources\check%402x1.png" />
+    <None Include="Resources\update1.png" />
+    <None Include="Resources\navBarAddIcon%402x1.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\JournLogo.png" />
+    <None Include="Resources\no_avatar1.png" />
+    <None Include="Resources\1212.jpg" />
+    <None Include="Resources\w_aim%402x.png" />
+    <None Include="Resources\VCardEmptyContact%402x.png" />
+    <None Include="Resources\UIButtonBarGarbageClose11.png" />
+    <None Include="Resources\TrashButtonPressed.png" />
+    <None Include="Resources\TrashButtonDisabled.png" />
+    <None Include="Resources\tab_about%402x.png" />
+    <None Include="Resources\tab_about.png" />
+    <None Include="Resources\prev.png" />
+    <None Include="Resources\Pen%402x.png" />
+    <None Include="Resources\no_avatar%402x.png" />
+    <None Include="Resources\no_avatar.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\navBarComposeIconLandscape%402x1.png" />
+    <None Include="Resources\navBarComposeIconLandscape%402x.png" />
+    <None Include="Resources\navBarAddIcon.png" />
+    <None Include="Resources\navBarActionIconLandscape%402x.png" />
+    <None Include="Resources\msn_big.png" />
+    <None Include="Resources\msn%402x.png" />
+    <None Include="Resources\money%402x.png" />
+    <None Include="Resources\mail2%402x.png" />
+    <None Include="Resources\GroupChat%402x.png" />
+    <None Include="Resources\ForwardButtonPressed.png" />
+    <None Include="Resources\ForwardButtonNormal.png" />
+    <None Include="Resources\fbbutton2.png" />
+    <None Include="Resources\fbbutton1.png" />
+    <None Include="Resources\fbbutton.png" />
+    <None Include="Resources\EmptyContact%402x.png" />
+    <None Include="Resources\discover_button1.png" />
+    <None Include="Resources\DESIG104.JPG" />
+    <None Include="Resources\contlist_menu%402x.png" />
+    <None Include="Resources\but_add_friend%402x.png" />
+    <None Include="Resources\b_msn_alpha%402x.png" />
+    <None Include="Resources\Agent3.png" />
+    <None Include="Resources\Agent2.png" />
+    <None Include="Resources\Agent1.png" />
+    <None Include="Resources\Agent.png" />
+    <None Include="Resources\Accompte1.png" />
+    <None Include="Resources\About.png" />
+    <None Include="Resources\3678_Crystal_Vista.jpg" />
+    <None Include="Resources\1211.jpg" />
+    <None Include="Resources\121.jpg" />
+    <None Include="Resources\chev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gestion_Stock_Lib\GestionClinic_LIB.csproj">
+      <Project>{25F7AD08-FD1C-4184-B04C-78D2BD53944F}</Project>
+      <Name>GestionClinic_LIB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Report_Gestion_Stock\GestionClinic_RPT.csproj">
+      <Project>{82F69B70-D8BE-4EFA-B432-14BEF7195DC9}</Project>
+      <Name>GestionClinic_RPT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

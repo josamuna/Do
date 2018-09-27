@@ -1,0 +1,7 @@
+D:\DOC\CODES\Do\Report_Gestion_Stock\bin\Debug\GestionClinic_RPT.exe
+D:\DOC\CODES\Do\Report_Gestion_Stock\bin\Debug\GestionClinic_RPT.pdb
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.Properties.Resources.resources
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.csproj.GenerateResource.Cache
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.exe
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.pdb

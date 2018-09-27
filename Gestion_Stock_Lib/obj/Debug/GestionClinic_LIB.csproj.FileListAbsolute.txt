@@ -1,0 +1,7 @@
+D:\DOC\CODES\Do\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.dll
+D:\DOC\CODES\Do\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.pdb
+D:\DOC\CODES\Do\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.exe
+D:\DOC\CODES\Do\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.pdb
+D:\DOC\CODES\Do\Gestion_Stock_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\Do\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.dll
+D:\DOC\CODES\Do\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.pdb

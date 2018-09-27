@@ -1,0 +1,35 @@
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.exe
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.pdb
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.Properties.Resources.resources
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.csproj.GenerateResource.Cache
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.exe
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.Properties.Resources.resources
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.csproj.GenerateResource.Cache
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.Properties.Resources.resources
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.csproj.GenerateResource.Cache
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.pdb
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.exe
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\bin\Debug\Report_Gestion_Stock.pdb
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.Properties.Resources.resources
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.csproj.GenerateResource.Cache
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.exe
+D:\CODES\Gestion_Stock_Projet\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.pdb
+D:\DOC\CODES\Do\Report_Gestion_Stock\bin\Debug\GestionClinic_RPT.exe
+D:\DOC\CODES\Do\Report_Gestion_Stock\bin\Debug\GestionClinic_RPT.pdb
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.Properties.Resources.resources
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\Report_Gestion_Stock.csproj.GenerateResource.Cache
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.exe
+D:\DOC\CODES\Do\Report_Gestion_Stock\obj\Debug\GestionClinic_RPT.pdb

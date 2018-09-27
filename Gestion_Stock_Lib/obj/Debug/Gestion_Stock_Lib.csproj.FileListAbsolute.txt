@@ -1,0 +1,28 @@
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.pdb
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.dll
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.pdb
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.dll
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.exe
+D:\Docu\MyDefiances\Gen$L\Travail Pratique\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.dll
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.pdb
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.dll
+D:\CCL\Gestion_Stock\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.pdb
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.dll
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.dll
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.pdb
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.exe
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.pdb
+D:\CCL\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.pdb
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.dll
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Gestion_Stock_Lib.pdb
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.exe
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\bin\Debug\Report_Gestion_Stock.pdb
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.dll
+D:\CODES\Gestion_Stock_Projet\Gestion_Stock_Lib\obj\Debug\Gestion_Stock_Lib.pdb
